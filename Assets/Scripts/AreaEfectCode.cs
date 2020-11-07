@@ -15,8 +15,8 @@ public class AreaEfectCode : MonoBehaviour {
         if (lol.lol1) {
             example.angularDrag = 0f;
             example.drag = 0f;
-            example.forceAngle = 0f;
-            example.forceMagnitude = 10f;
+            example.forceAngle = 90f;
+            example.forceMagnitude = 50f;
             example.forceVariation = 0f;
             example.useGlobalAngle = true;
         } else {
